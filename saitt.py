@@ -2,7 +2,7 @@ import os
 
 from random import randint
 
-# This function clears the screenß.
+# This function clears the screen.
 def clear_screen():
     os.system('clear') # Clears the screen. For windows change to 'cls'.
 

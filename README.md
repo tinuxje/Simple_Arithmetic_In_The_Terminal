@@ -9,7 +9,8 @@ It's time to take it to the next level. Scratch https://scratch.mit.edu was/is a
 
 At the moment the menu and the remarks are in Dutch. Be our guest to help us out here. Math is universal, it shouldn't be hard to make the adjustment for your own language
 
-For now the program is very basic and simple. We still have a lot to learn. Any tips are welcome.
+For now the program is very basic and simple. Any tips are welcome. Specially on coding style, structure and basic Python.
+We still have a lot to learn. 
 
 Who knows........in the future we might even try to use Tkinter https://wiki.python.org/moin/TkInter, if we can figure out how it works.
 

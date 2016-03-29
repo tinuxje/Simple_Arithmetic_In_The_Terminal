@@ -11,7 +11,7 @@ At the moment the menu and the remarks are in Dutch. Be our guest to help us out
 
 For now the program is very basic and simple. We still have a lot to learn. Any tips are welcome.
 
-Who knows........in the future we meight even try to use Tkinter https://wiki.python.org/moin/TkInter, if we can figure out how it works.
+Who knows........in the future we might even try to use Tkinter https://wiki.python.org/moin/TkInter, if we can figure out how it works.
 
 Stay tuned.
 

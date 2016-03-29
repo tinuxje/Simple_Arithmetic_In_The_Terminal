@@ -4,7 +4,7 @@ I have created a Simple Arithmetic Program for my 10 year old son.
 
 Why?
 
-Because it's fun and in the mean time we BOTH learn Python, Github and Arithmetic
+Because it's fun and in the mean time we BOTH learn Python, Github and Arithmetics.
 It's time to take it to the next level. Scratch https://scratch.mit.edu was/is awsome, but Python here we come!! 
 
 At the moment the menu and the remarks are in Dutch. Be our guest to help us out here. Math is universal, it shouldn't be hard to make the adjustment for your own language

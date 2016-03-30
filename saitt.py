@@ -82,7 +82,7 @@ def division():
         print "          %d / %d =" % (a * b, b),
         answer = raw_input()
         if answer.isdigit():
-            if int(answer) != c / b:
+            if int(answer) != a * b / b:
                 print "HELAAS    %d / %d = %d" % (a * b, b, a * b / b )
         else:
             print "Je kunt alleen getallen intypen."     # Only numbers
